@@ -1,0 +1,60 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th{
+    background-color: aqua;
+   
+  }
+
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+  label{
+    font-weight: bold;
+    margin: 1px 0px;
+    margin-right:20px ;
+  }
+  input{
+    padding: 2px;
+    width: 250px;
+    margin: 5px 0px;
+  }
+  
+
+  .addEmpBtn{
+    padding: 10px;
+    background-color: #28a745 ;
+    font-weight: bold;
+    color: white;
+    border-radius: 5px;
+    margin: 5px;
+  }
+
+  .btn{
+    padding: 5px;
+    font-weight: bold;
+    border-radius: 5px;
+  margin:2px 0px;
+  color:white;
+
+  }
+  .update{
+    background-color: #007bff;
+  }
+  .delete{
+    background-color: #dc3545;
+  }
+
+  .data-table{
+    margin: 50px;
+  }

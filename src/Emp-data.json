@@ -1,0 +1,26 @@
+ [
+    {
+        "name": "Sandeep Gupta",
+        "address" : "pune",
+        "mailId" : "skgupta@gmail.com",
+        "mobileNum" : 8796968589
+    },
+    {
+        "name": "Nagesh Chandewad",
+        "address" : "Hyd",
+        "mailId" : "nc@gmail.com",
+        "mobileNum" : 4584686465
+    },
+    {
+        "name": "Rohan Vyas",
+        "address" : "Bnaglore",
+        "mailId" : "rv@gmail.com",
+        "mobileNum" : 54545565565
+    },
+    {
+        "name": "Prashant Pathak",
+        "address" : "Indore",
+        "mailId" : "pp@gmail.com",
+        "mobileNum" : 848948645
+    }
+]
